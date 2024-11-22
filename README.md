@@ -9,7 +9,7 @@ I sincerely invite you to read and download the article using the following link
 
 This link provides free access to the paper for the next 50 days, so I encourage you to share it with your networks.
 
-The MATLAB codes for the AOS-upgraded algorithms, which are ranked among the top four algorithms in the study, are included in the zip file available on following GitHub repository: 
+The MATLAB codes for the AOS-upgraded algorithms, which are ranked among the top four algorithms in the study, are included in the files available on following GitHub repository: 
 
 https://github.com/Majilchi/MATLAB-codes-for-Adaptive-Optimization-Scheme-AOS/tree/master
 
