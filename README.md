@@ -1,5 +1,6 @@
 # MATLAB code for Adaptive Optimization Scheme (AOS)
 DOI: https://doi.org/10.1016/j.swevo.2024.101779.
+
 Dear Researchers and Colleagues,
 I'm thrilled to share my latest article titled "A novel adaptive optimization scheme for advancing metaheuristics and global optimization" published in " Swarm and Evolutionary Computation".
 I sincerely invite you to read and download the article using the following link: https://authors.elsevier.com/c/1k7Jn7sfCTKmXZ.
